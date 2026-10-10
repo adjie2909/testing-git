@@ -24,7 +24,10 @@ git commit -m "feat: initial test push"
 
 # 4. Kirim perubahan ke GitHub
 git push origin main
+
+# 5. Test perubahan push and pull Githbub
 ```
+
 
 ---
 *Dibuat untuk keperluan verifikasi koneksi Git & GitHub.*
